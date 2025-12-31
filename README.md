@@ -1,6 +1,6 @@
 # Webスクレイピング向けのトップPython HTMLパーサー
 
-[![Bright Data Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/)
+[![Bright Data Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/)
 
 Webサイトからデータを抽出する際には、適切なHTMLパーサーを用意することが不可欠です。ここでは、Webスクレイピングプロジェクトを強力に加速させる、最もパワフルなPython HTMLパーサー5つを見ていきましょう。
 
